@@ -2,6 +2,9 @@
 
 A professional single-page CV website showcasing a junior frontend developer's portfolio, skills, and experience.
 
+# Live Preview of Webpage
+ https://codewithlasthope.github.io/CV/
+
 ## About
 
 This is a clean and simple CV website for **LASTHOPE**, a junior frontend developer with expertise in HTML, CSS, JavaScript, React, and responsive web design.
