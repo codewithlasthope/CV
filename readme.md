@@ -3,7 +3,7 @@
 A professional single-page CV website showcasing a junior frontend developer's portfolio, skills, and experience.
 
 # Live Preview of Webpage
- https://codewithlasthope.github.io/CV/
+ Project URL: https://codewithlasthope.github.io/CV/
 
 ## About
 
